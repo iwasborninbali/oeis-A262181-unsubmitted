@@ -1,0 +1,3 @@
+# Prior art
+
+Bjorn Poonen and Michael Rubinstein, *The number of intersection points made by the diagonals of a regular polygon*, SIAM Journal on Discrete Mathematics 11 (1998), 135–156, [doi:10.1137/S0895480195281246](https://doi.org/10.1137/S0895480195281246), Lemma 2, classify the relevant minimal relations. Lam and Leung, *On Vanishing Sums of Roots of Unity*, Journal of Algebra 224 (2000), 91–109, provide a related general classification. The live [A262181](https://oeis.org/A262181), read 2026-11-13, states the conjecture without the Poonen–Rubinstein reference. No priority is claimed for the application.
