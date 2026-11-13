@@ -1,7 +1,7 @@
 # OEIS A262181: reference for prime-sided polygons (not yet submitted)
 
 <!-- oeis-status:begin -->
-**OEIS status: not submitted** (lab registry, 13 Nov 2026).
+**OEIS status: not submitted** (lab registry, 14 Nov 2026).
 
 - [A262181](https://oeis.org/A262181), Poonen and Rubinstein 1998, Lemma 2: **candidate** (2026-11-13: repository built (core c6)). Certificate: complete.
 
