@@ -1,0 +1,7 @@
+Algorithm: enumerate t_i=p-m_i in [0,p-1] with sum 2p; test exact cyclotomic zero (no floating point).
+Indexing: OEIS offset=3, prime n=p, observed OEIS a(p)=1.
+p=3 candidates=1 exact_closed=1 nonregular=0 a(p)=1 oeis_a(p)=1 match=yes runtime_seconds=1.4e-07
+p=5 candidates=381 exact_closed=1 nonregular=0 a(p)=1 oeis_a(p)=1 match=yes runtime_seconds=4.226e-06
+p=7 candidates=26769 exact_closed=1 nonregular=0 a(p)=1 oeis_a(p)=1 match=yes runtime_seconds=0.000158476
+p=11 candidates=60632419 exact_closed=1 nonregular=0 a(p)=1 oeis_a(p)=1 match=yes runtime_seconds=0.259833
+p=13 candidates=2639871326 exact_closed=1 nonregular=0 a(p)=1 oeis_a(p)=1 match=yes runtime_seconds=14.3764
